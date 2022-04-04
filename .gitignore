@@ -1,0 +1,17 @@
+chromedriver.exe
+venv
+videos
+frames
+partitions
+*.aux
+*.f*
+*.log
+*.bbl
+*.blg
+*.out
+*.sync*
+__pycache__
+src/weights
+*.tex
+*.cls
+*.bib
